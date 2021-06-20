@@ -1,7 +1,7 @@
 
 
 class Solution:
-    
+       
     def maxSubArraySum(self,a,size):
         
          maxSoFar=0;
