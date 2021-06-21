@@ -7,3 +7,5 @@ for _ in range(t):
         s=s.replace('XXX','X')
         s=s.replace('XX','X')
     print(s)
+
+print("this is a replace by x code")
