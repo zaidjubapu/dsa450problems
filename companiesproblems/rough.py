@@ -55,12 +55,7 @@ def printRepeating(arr, n):
     for i in range(0, n):
         index = arr[i] % n
         arr[index] =index+ n
- 
-    # Now check which value
-        # exists more
-    # than once by dividing
-        # with the size
-    # of array
+
     print(arr)
     for i in range(0, n):
         if (arr[i]/n) >= 2:
@@ -73,6 +68,6 @@ arr_size = len(arr)
  
 print("The repeating elements are:")
  
-# Function call
+
 printRepeating(arr, arr_size)
  
