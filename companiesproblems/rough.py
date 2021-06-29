@@ -70,4 +70,3 @@ print("The repeating elements are:")
  
 
 printRepeating(arr, arr_size)
- # finish till 6/29
