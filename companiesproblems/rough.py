@@ -42,7 +42,7 @@ print(b)'''
 # repeating elements
  
  
-def printRepeating(arr, n):
+'''def printRepeating(arr, n):
  
     # First check all the
         # values that are
@@ -69,4 +69,7 @@ arr_size = len(arr)
 print("The repeating elements are:")
  
 
-printRepeating(arr, arr_size)
+printRepeating(arr, arr_size)'''
+
+# bit or problem repeat
+
