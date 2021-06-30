@@ -71,14 +71,6 @@ print("The repeating elements are:")
 
 printRepeating(arr, arr_size)'''
 
-# bit or problem repeat
-a=[1,2,3,4,5]
-print(a)
-b=a[0]
 
-for i in range(len(a)-1):
-    a[i]=a[i]^a[i+1]
-a[len(a)-1]=a[len(a)-1]^b
-print(a)
 
 
