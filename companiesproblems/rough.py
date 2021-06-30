@@ -72,4 +72,10 @@ print("The repeating elements are:")
 printRepeating(arr, arr_size)'''
 
 # bit or problem repeat
+a=[1,2,3,4,5]
+print(a)
+
+for i in range(len(a)):
+    arr[i]=arr[i]^arr[i+1]
+
 
