@@ -62,7 +62,14 @@ print(b)'''
             print(arr[i]/n, end=" ")
  
  
-# 
+# Driver code
+arr = [6, 3,9, 1, 3, 6, 6,9]
+arr_size = len(arr)
+ 
+print("The repeating elements are:")
+ 
+
+printRepeating(arr, arr_size)'''
 
 
 
