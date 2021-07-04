@@ -71,7 +71,13 @@ print("The repeating elements are:")
 
 printRepeating(arr, arr_size)'''
 
+'''def func(a,b):
+    if (a>1):
+        func(a-2,b+2)
 
+    print(b)
+
+func(4,5)'''
 
 
 
