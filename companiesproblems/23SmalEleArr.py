@@ -1,4 +1,3 @@
-#User function Template for python3
 
 def countOfElements( a, n, x):
     
@@ -12,9 +11,7 @@ def countOfElements( a, n, x):
 
 
 
-#{ 
-#  Driver Code Starts
-#Initial Template for Python 3
+
 
 def main():
 
@@ -33,5 +30,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# } Driver Code Ends'''
