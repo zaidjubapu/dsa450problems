@@ -6,7 +6,7 @@ def countOfElements( a, n, x):
         if a[i] <= x:
             c+=1
             
-    return c
+    return 
     
 
 
