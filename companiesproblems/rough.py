@@ -79,6 +79,9 @@ printRepeating(arr, arr_size)'''
 
 func(4,5)
 '''
+s
+
+hel
 
 
 
