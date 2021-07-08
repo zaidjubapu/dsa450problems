@@ -34,12 +34,6 @@ abcd()
 b=b+3
 print(b)'''
 
-# Python3 program to
-# print all elements that
-# appear more than once.
- 
-# function to find
-# repeating elements
  
  
 '''def printRepeating(arr, n):
