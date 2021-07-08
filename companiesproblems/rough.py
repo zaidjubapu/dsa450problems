@@ -18,7 +18,7 @@ print(list(a))
 e="".join((str(x) for x in arr))
 print(e)
 e="".join([str(x) for x in arr])
-print(e)''' # finish 1
+print(e)''' 
 
 #arr= [1,2,3,4]
 #print(*arr)
