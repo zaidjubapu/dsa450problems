@@ -1,4 +1,4 @@
-s
+
 
 def game_with_number (arr,  n) : 
     #Complete the function
