@@ -21,7 +21,7 @@ e="".join([str(x) for x in arr])
 print(e)''' 
 
 #arr= [1,2,3,4]
-#print(*arr)
+#print(*arr) print all the array element
 
 '''a=3
 def abcd():
