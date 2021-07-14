@@ -71,7 +71,7 @@ printRepeating(arr, arr_size)'''
 
     print(b)
 
-func(4,5)
+func(4,5)'''
 
 
 
