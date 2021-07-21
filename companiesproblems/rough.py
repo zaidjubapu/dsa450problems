@@ -69,9 +69,7 @@ printRepeating(arr, arr_size)'''
     if (a>1):
         func(a-2,b+2)
 
-    print(b)
-
-func(4,5)'''
+    print
 
 
 
