@@ -22,7 +22,6 @@ while(n>0):
     n=n//10
 
 print(rev)
-print("".join(str(l)))
 
 print(str(l))
 
