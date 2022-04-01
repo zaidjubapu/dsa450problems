@@ -6,6 +6,8 @@ for i in range(int(len(a)/2)):
 print(a)'''
 
 # 2 kth element problem
+k=3
 a=[1,5,3,2,6,19,34]
 a.sort()
-print(a)
+print(a[k-1])
+
