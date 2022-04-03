@@ -39,9 +39,9 @@ d=reversWord(a)
 #print(s)'''
 
 
-a=[1,2,38,2,1,]
+'''a=[1,2,38,2,1,]
 a.sort()
 print(a)
 z=a.reverse()
-print(a)
+print(a)'''
 
