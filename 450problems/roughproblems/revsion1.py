@@ -11,6 +11,6 @@ a=[1,5,3,2,6,19,34]
 a.sort()
 print(a[k-1])'''
 
-# 3 sor
+# 3 sort 012 prob
 
 
