@@ -45,9 +45,4 @@ print(a)
 z=a.reverse()
 print(a)'''
 
-'''a=[1,2,38,2,1,]
-a.sort()
-print(a)
-z=a.reverse()
-print(a)'''
 
