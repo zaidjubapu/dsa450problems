@@ -40,7 +40,7 @@ while mid<= high:
         arr[high],arr[mid]=arr[mid],arr[high]
         high = high - 1
 
-print(arr)'''
+print(arr)
 
 
 
