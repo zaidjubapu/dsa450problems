@@ -22,7 +22,7 @@ while mid <= high:
 print(arr)'''
 
 
-arr =  [4,5,6,4,5]
+'''arr =  [4,5,6,4,5]
 n=len(arr)
 
 low = 0
@@ -40,7 +40,7 @@ while mid<= high:
         arr[high],arr[mid]=arr[mid],arr[high]
         high = high - 1
 
-print(arr)
+print(arr)'''
 
 
 
