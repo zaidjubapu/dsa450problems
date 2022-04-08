@@ -1,4 +1,4 @@
-'''arr=[2,0,1,2,0]
+arr=[2,0,1,2,0]
 n=len(arr)
 
 low = 0
@@ -19,10 +19,10 @@ while mid <= high:
         arr[mid],arr[high] = arr[high],arr[mid]
         high = high - 1
 
-print(arr)'''
+print(arr)
 
 
-'''arr =  [4,5,6,4,5]
+arr =  [4,5,6,4,5]
 n=len(arr)
 
 low = 0
