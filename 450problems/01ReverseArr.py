@@ -36,7 +36,7 @@ a=input("enter the workd")
 print(reversWord(a))
 d=reversWord(a)
 #s=d.split("")
-#print(s)'''
+#print(s)
 
 
 '''a=[1,2,38,2,1,]
