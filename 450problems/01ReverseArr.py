@@ -45,9 +45,5 @@ print(a)
 z=a.reverse()
 print(a)'''
 
-a=[2,1,3,5,65,3,3]
-a.sort()
-a.reverse()
-print(a)
 
 
