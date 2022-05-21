@@ -43,7 +43,7 @@ d=reversWord(a)
 a.sort()
 print(a)
 z=a.reverse()
-print(a)
+print(a)'''
 
 
 
