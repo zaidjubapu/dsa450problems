@@ -18,7 +18,7 @@ ar.append("zaid")
 
 print(a,ar)
 ar.pop(len(ar)-1)
-print(ar)
+print(ar
 
 
 
